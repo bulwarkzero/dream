@@ -101,7 +101,7 @@ Will return a collection of `Book`s eager loaded with the ID of their `Author`
 Will return a collection of `Book`s and a eager loaded collection of their
 `Author`s in the root scope.
 
-[See mere about eager loading types in Optimus\Architect's README](https://github.com/esbenp/architect)
+[See mere about eager loading types in Optimus\Architect's README](https://github.com/bulwark1374/architect)
 
 ### Pagination
 
